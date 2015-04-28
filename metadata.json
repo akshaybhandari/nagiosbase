@@ -1,0 +1,14 @@
+{
+  "name": "akshaybhandari-nagiosbase",
+  "version": "0.1.0",
+  "author": "akshaybhandari",
+  "summary": "Base puppet modules for configuring OpenStack monitoring using Nagios on any node",
+  "license": "Apache 2.0",
+  "source": "https://github.com/akshaybhandari/nagiosbase.git",
+  "project_page": "https://github.com/akshaybhandari/nagiosbase",
+  "issues_url": "https://github.com/akshaybhandari/nagiosbase/issues",
+  "dependencies": [
+    {"version_requirement":">= 1.0.0","name":"puppetlabs-stdlib"}
+  ]
+}
+
